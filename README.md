@@ -1,16 +1,12 @@
-# Title
+# Use the Index, Luke
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Explain SQL performance and database indexes
+- Use database indexes to solve database performance issues
 
-## Introduction
+## Reading
 
-## SWBAT 1
+[Use the Index, Luke](https://use-the-index-luke.com) is an online book about database indexes. It dives deep into what database indexes are, what problems they solve, and how to use them effectively.
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Reading the whole book should take about 4 hours.
